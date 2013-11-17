@@ -3,7 +3,9 @@
 	<head>
 	    <meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<style>
 			iframe {
 				width:100%;
@@ -73,11 +75,15 @@ if ($handle = opendir('memes')) {
 	}
 }
 ?>
+
+			<div class="push"></div>
 		</div> <!-- end container -->
+
 		<footer>
 			Made at 
 			<a href="http://coderdojoscotland.com/clubs/stirling">Stirling CoderDojo</a>, 
 			<a href="http://coderdojoscotland.com/">CoderDojo Scotland</a>
 		</footer>
+
 	</body>
 </html>

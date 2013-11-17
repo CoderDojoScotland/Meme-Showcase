@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #7EB2AD;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+	color: #BC1D29;
+	font-family: 'Nunito', sans-serif;
+}
+
+img#logo {
+	width: 100px;
+	margin-top: 20px;
+}
+
+.container {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -30px; /* the bottom margin is the negative value of the footer's height */
+}
+footer, .push {
+	height: 30px; /* '.push' must be the same height as 'footer' */
+}
+
+footer {
+    width: 100%;
+    text-align: right;
+    font-size: 16px;
+    padding-right: 15px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+footer a {
+	text-decoration: none;
+	color: rgba(226,68,80, 0.8);
+
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.7);
+}
