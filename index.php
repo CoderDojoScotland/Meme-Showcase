@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<div class="container">
-			<h1>Coder Dojo Stirling Meme Showcase</h1>
+			<h1>Stirling CoderDojo Meme Showcase</h1>
 			<hr/>
 <?php
 
