@@ -5,7 +5,7 @@ A page for showcasing Memes created in a dojo <br/>
 [Demo](http://coderdojo.co/stirling/)
 
 ## How to use 
-<p>Create a meme using the [Mozilla Webmaker tutorial](https://openmatt.makes.org/thimble/meme-maker) then download the code as an HTML file. Place these files in the meme folder.  </p>
+Create a meme using the [Mozilla Webmaker tutorial](https://openmatt.makes.org/thimble/meme-maker) then download the code as an HTML file. Place these files in the meme folder.
 
 ## Authors 
 [Andy Berry](https://github.com/andyberry88) <br/>
