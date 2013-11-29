@@ -16,8 +16,8 @@
 	</head>
 	<body>
 		<div class="container">
-			<img id="logo" src="img/stirling_dojo.jpg" alt="Stirling CoderDojo Logo">
-			<h1>Stirling CoderDojo Meme Showcase</h1>
+			<img id="logo" src="img/dundee_dojo.png" alt="Dundee CoderDojo Logo">
+			<h1>Dundee CoderDojo Meme Showcase</h1>
 			<hr/>
 <?php
 
@@ -81,7 +81,7 @@ if ($handle = opendir('memes')) {
 
 		<footer>
 			Made at 
-			<a href="http://coderdojoscotland.com/clubs/stirling">Stirling CoderDojo</a>, 
+			<a href="http://coderdojoscotland.com/clubs/dundee">Dundee CoderDojo</a>, 
 			<a href="http://coderdojoscotland.com/">CoderDojo Scotland</a>
 		</footer>
 
